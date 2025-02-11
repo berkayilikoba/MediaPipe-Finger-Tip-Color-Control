@@ -1,0 +1,2 @@
+# Real-Time-Hand-Gesture-Recognition-and-RGB-LED-Control-using-OpenCV-MediaPipe-and-Arduino
+This project combines OpenCV, MediaPipe, and Arduino to control RGB LEDs using hand gestures. The system detects hand movements via a webcam, processes them with MediaPipe, and sends commands to an Arduino to change LED colors. Users can interact with the LEDs by moving their hands over specific areas on the screen.
