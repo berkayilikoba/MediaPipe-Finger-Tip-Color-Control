@@ -80,5 +80,5 @@ This project is open-source and available under the **MIT License**. You are fre
 - **Arduino**: For enabling easy control of physical components.
 
 ## Youtube Video
-[Link to the video](https://www.youtube.com/watch?v=-hDzeOyrKfs)
+[Link to the video](https://www.youtube.com/watch?v=2EV2QUrUE8c)
 
