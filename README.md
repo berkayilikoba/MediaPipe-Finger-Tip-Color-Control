@@ -1,4 +1,4 @@
-# Real-Time Finger Counting and LED Control using Arduino, MediaPipe, and OpenCV
+# Real-Time Finger Counting & LED Control
 
 ## Project Overview
 
