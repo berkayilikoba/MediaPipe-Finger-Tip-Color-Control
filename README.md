@@ -1,4 +1,6 @@
-# Real-Time Finger Counting & LED Control
+# MediaPipe Finger Tip Color Control
+
+
 
 ## Project Overview
 
